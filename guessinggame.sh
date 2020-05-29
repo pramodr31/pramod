@@ -1,4 +1,4 @@
-#! bin/bash
+#!/bin/bash
 
 ####Calculating number of files using for loop####
 count=0
