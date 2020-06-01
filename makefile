@@ -1,6 +1,5 @@
 README.md:
         touch README.md
-
 README.md: guessinggame.sh
         echo "# * Welcome to Guessing Game *" > README.md
         echo "1. Make was ran on: " >> README.md
